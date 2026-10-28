@@ -1,7 +1,3 @@
-# joabbsimson
-About Meeee ⚡
-
-
 ````markdown
 # Hey, I'm Joabb Simson 👋
 
